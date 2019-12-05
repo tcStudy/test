@@ -1,0 +1,14 @@
+{
+    "name": "tcxuexi/test",
+    "description": "学习",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tcxuexi",
+            "email": "xuexi1998@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
