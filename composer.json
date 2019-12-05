@@ -1,0 +1,21 @@
+{
+    "name": "tcxuexi/test",
+    "description": "Hello World",
+    "type": "library",
+    "require": {
+        "php": ">=7.3.9"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "tcxuexi",
+            "email": "xuexi1998@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "tc\\": "src/tc"
+        }
+    }
+}
